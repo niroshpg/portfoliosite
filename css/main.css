@@ -1,0 +1,45 @@
+
+* {
+    font-family: 'Lato', sans-serif;
+    color: #2d3c49;
+    font-weight: 300;
+}
+
+.container{
+    padding-left: 5px;
+    padding-right: 5px;
+    margin: 5 auto;
+}
+article > img {
+    width: 80%;
+    height: 80%;
+      padding-left: 0px;
+    padding-right: 0px;
+    margin: 0 auto;
+}
+
+.text-color-light {
+    color: #7d97ad;
+}
+
+.font-weight-thin {
+    font-weight: 100;
+}
+
+.title-super {
+    font-size: 48px;
+}
+
+.top-hr {
+    border: none;
+    height: 3px;
+    background-color: #7d97ad;
+}
+
+
+
+footer {
+    display: block;
+    height: 50px;
+}
+
