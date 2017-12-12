@@ -38,8 +38,22 @@ article > img {
 
 
 
-footer {
-    display: block;
-    height: 50px;
+.footer {
+  height: 100px;
+  margin-top: 50px;
+}
+.footer a {
+  color: #2d3c49;
+  font-size: 20px;
+  padding: 30px;
+
+  transition: all .5s ease;
 }
 
+.fa {
+  color: #7d97ad;
+}
+
+.footer a:hover {
+  color: white;
+}
